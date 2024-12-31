@@ -1,0 +1,9 @@
+[submodule "seaweedfs"]
+	path = seaweedfs
+	url = https://github.com/seaweedfs/seaweedfs.git
+[submodule "cubefs"]
+	path = cubefs
+	url = https://github.com/cubefs/cubefs.git
+[submodule "juicefs"]
+	path = juicefs
+	url = https://github.com/juicedata/juicefs.git
